@@ -2,7 +2,7 @@
 ## Pronouns:He/Him (altough i prefer a bit more She/Her)
 ## You can DM me on Discord: Mr. Al Patino#2904
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAlPatino&show_icons=true&theme=github_dark)
-!(https://github.com/MrAlPatino/MrAlPatino/blob/main/Banner_static_credited.jpg?raw=true)
+![Banner_static_credited](https://user-images.githubusercontent.com/43314815/158072845-37dcbdd3-1835-4a9d-bd1f-871452b9886c.jpg)
 
 
 <!--
@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
