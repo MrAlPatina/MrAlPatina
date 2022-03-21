@@ -1,6 +1,6 @@
 ### A:Birb\Avali\Patino.exe               ⎯⠀❐⠀⤬
 <h1 align="right">
-    ⎯⠀❐⠀⤬
+    A:Birb\Avali\Patino.exe               ⎯⠀❐⠀⤬
 </h1>
 ## Pronouns:He/Him (altough i prefer a bit more She/Her)
 ## You can DM me on Discord: Mr. Al Patino#2904
