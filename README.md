@@ -1,4 +1,4 @@
-### Oh, hey there 👋
+### A:Birb\Avali\Patino.exe    ⎯⠀❐⠀⤬
 ## Pronouns:He/Him (altough i prefer a bit more She/Her)
 ## You can DM me on Discord: Mr. Al Patino#2904
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAlPatino&show_icons=true&theme=github_dark)
