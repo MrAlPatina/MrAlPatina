@@ -2,9 +2,11 @@
     A:Birb\Avali\Patina.exe                                                                                       ⎯⠀❐⠀⤬
 </pre>
 ## Pronouns:She/her
-## You can DM me on Discord: Ms. Al Patina#2904
+## You can DM me on Discord: @msalpatina
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MsAlPatina&show_icons=true&theme=github_dark)
-![Banner_static_credited](https://user-images.githubusercontent.com/43314815/158072845-37dcbdd3-1835-4a9d-bd1f-871452b9886c.jpg)
+# Makes development boards on theyr free time
+<!-- <!--
+[Banner_static_credited](https://user-images.githubusercontent.com/43314815/158072845-37dcbdd3-1835-4a9d-bd1f-871452b9886c.jpg)
 
 
 <!--
