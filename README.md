@@ -1,7 +1,6 @@
 <pre align="left">
-    A:Birb\Avali\Patina.exe                                                                                       ⎯⠀❐⠀⤬
+    A:Birb\Avali\Marta.exe                                                                                       ⎯⠀❐⠀⤬
 </pre>
-## Pronouns:She/her
 ## You can DM me on Discord: @msalpatina
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MsAlPatina&show_icons=true&theme=github_dark)
 # Makes development boards on theyr free time
@@ -10,7 +9,7 @@
 
 
 <!--
-**MrAlPatino/MrAlPatino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
