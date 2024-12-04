@@ -2,6 +2,7 @@
     A:Birb\Avali\Marta.exe                                                                                       ⎯⠀❐⠀⤬
 </pre>
 ## You can DM me on Discord: @msalpatina
+![msalpatina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msalpatina&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MsAlPatina&show_icons=true&theme=github_dark)
 # Makes development boards on theyr free time
 <!-- <!--
